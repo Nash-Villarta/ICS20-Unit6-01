@@ -3,6 +3,7 @@ let base = 0
 let height = 0
 let basetwo = 0
 let half = 0.5
+let area = 0
 
 document.getElementById('button').addEventListener('click', calculation)
 //  Looking for the numbers within the input once clicked
